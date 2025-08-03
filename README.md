@@ -6,6 +6,7 @@ NaviZen is a powerful, intelligent, voice-first assistant for vehicles that blen
 
 ---
 
+## Demo Link : https://drive.google.com/file/d/11gIGbpGxtQ1IpINrKutNS-htB8-Wbb7i/view?usp=sharing
 ## 🌟 Key Features
 
 ### 🔍 Retrieval-Augmented Generation (RAG)
