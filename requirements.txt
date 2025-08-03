@@ -1,0 +1,32 @@
+# LangChain and OpenAI LLM support
+langchain>=0.1.14
+langchain-community>=0.0.30
+langchain-openai>=0.1.1
+langchain-chroma>=0.1.0
+openai>=1.6.1
+
+# Vector store and embeddings
+faiss-cpu>=1.7.4
+chromadb>=0.4.24
+
+# Text-to-speech and audio support
+gTTS>=2.3.2
+SpeechRecognition>=3.10.0
+
+
+# Gradio interface
+gradio>=4.30.0
+
+# NLP utilities and tokenization
+tiktoken>=0.6.0
+
+# JSON and shell utilities
+jq==1.6  # Only relevant for system environments supporting jq
+
+# General purpose packages
+python-dotenv>=1.0.1
+pandas>=2.2.2
+numpy>=1.26.4
+requests>=2.31.0
+tqdm>=4.66.1
+pydantic>=2.7.1

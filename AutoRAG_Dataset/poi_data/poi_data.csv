@@ -1,0 +1,76 @@
+name,city,type,rating,distance_km
+Chase LLC Pharmacy,Michaelview,Restaurant,3.5,4.46
+Kerr LLC Charging Station,Michaelview,Gas Station,4.2,4.32
+Moss-Jackson Gas Station,Michaelview,Charging Station,4.3,3.94
+Greene Ltd Gas Station,Michaelview,Gas Station,4.5,1.22
+"Reeves, Rivers and Clark Restaurant",Michaelview,Gas Station,3.1,1.99
+White-Wilson Charging Station,Michaelview,Charging Station,4.4,4.73
+Singh Ltd Restaurant,Michaelview,Gas Station,4.8,1.86
+Scott-Schultz Restaurant,Michaelview,Charging Station,3.8,2.05
+"Flores, Cisneros and Payne Restaurant",Michaelview,Pharmacy,4.4,4.25
+Henry PLC Gas Station,Michaelview,Pharmacy,3.5,3.11
+Wood Inc Charging Station,Michaelview,Gas Station,3.1,3.1
+"Brandt, Henderson and Koch Charging Station",Michaelview,Cafe,4.9,2.77
+Gutierrez-George Charging Station,Michaelview,Restaurant,4.1,2.89
+Frazier and Sons Gas Station,Michaelview,Pharmacy,4.9,0.57
+"Berry, Rose and Flores Pharmacy",Michaelview,Charging Station,4.0,3.77
+Wilson Ltd Pharmacy,Tammystad,Gas Station,4.2,2.83
+Larson-Castillo Cafe,Tammystad,Cafe,4.1,3.03
+"Ortiz, Schmidt and Castillo Charging Station",Tammystad,Pharmacy,4.7,3.56
+Trujillo-Miller Charging Station,Tammystad,Restaurant,4.5,3.36
+Floyd LLC Cafe,Tammystad,Restaurant,4.5,2.04
+"Nicholson, Johnson and Braun Restaurant",Tammystad,Gas Station,4.3,3.56
+"Meadows, Hernandez and Bailey Restaurant",Tammystad,Restaurant,3.0,1.44
+Alvarez-Brewer Gas Station,Tammystad,Restaurant,3.2,2.9
+Smith and Sons Pharmacy,Tammystad,Restaurant,3.7,2.53
+Perry and Sons Charging Station,Tammystad,Cafe,4.6,2.98
+"Hoover, Adams and Marshall Cafe",Tammystad,Gas Station,3.1,2.04
+"Simon, Diaz and Kennedy Gas Station",Tammystad,Cafe,3.5,4.07
+"Huerta, Sims and Hatfield Pharmacy",Tammystad,Cafe,4.8,4.91
+Roman Group Gas Station,Tammystad,Pharmacy,3.0,2.3
+Smith-Owens Charging Station,Tammystad,Pharmacy,3.5,4.98
+"Taylor, Moore and Juarez Gas Station",Johnstad,Pharmacy,3.3,1.17
+Munoz-Jennings Charging Station,Johnstad,Charging Station,3.0,2.65
+"Walker, Hernandez and Miles Cafe",Johnstad,Pharmacy,4.0,4.59
+Potter-Boyd Pharmacy,Johnstad,Cafe,3.2,1.31
+Morris LLC Gas Station,Johnstad,Restaurant,4.0,1.31
+"Smith, Boyd and Conner Cafe",Johnstad,Restaurant,4.2,3.34
+Reed-Wright Gas Station,Johnstad,Restaurant,3.2,3.37
+Friedman-Hampton Restaurant,Johnstad,Restaurant,4.3,1.74
+Ortiz Ltd Cafe,Johnstad,Cafe,4.0,3.08
+"Nichols, Hancock and Calhoun Charging Station",Johnstad,Gas Station,3.9,2.39
+Nolan LLC Gas Station,Johnstad,Cafe,4.1,0.98
+Sims-Campos Gas Station,Johnstad,Cafe,4.3,0.84
+"Holden, Dean and Ramirez Restaurant",Johnstad,Cafe,4.3,2.86
+Oneill Group Gas Station,Johnstad,Cafe,3.7,4.95
+Rodriguez Group Cafe,Johnstad,Cafe,4.7,2.72
+Berger-Cruz Cafe,Port Emily,Restaurant,4.8,3.7
+Chapman-Vega Charging Station,Port Emily,Gas Station,4.9,2.97
+Long and Sons Cafe,Port Emily,Charging Station,3.3,4.36
+"Smith, Anderson and Ford Gas Station",Port Emily,Cafe,3.8,1.13
+Le LLC Gas Station,Port Emily,Charging Station,3.8,3.83
+"Byrd, Gay and Smith Charging Station",Port Emily,Restaurant,3.2,2.21
+Moss-Walter Restaurant,Port Emily,Cafe,3.9,4.82
+Wilkinson-Evans Gas Station,Port Emily,Restaurant,4.8,2.88
+"Rowland, Gates and Padilla Pharmacy",Port Emily,Gas Station,3.1,1.05
+Rodriguez-Hester Cafe,Port Emily,Cafe,3.1,1.22
+"Graves, Tanner and Hull Pharmacy",Port Emily,Cafe,4.0,1.66
+Mcgee PLC Pharmacy,Port Emily,Pharmacy,4.4,3.77
+Young Ltd Cafe,Port Emily,Restaurant,3.1,2.05
+Gutierrez Inc Restaurant,Port Emily,Charging Station,3.9,4.41
+"Carpenter, Obrien and Franklin Restaurant",Port Emily,Charging Station,4.1,2.17
+Mullen-Davis Charging Station,South Randall,Restaurant,4.2,4.49
+"Wright, Duran and Nguyen Gas Station",South Randall,Restaurant,4.3,4.42
+"Thompson, Lee and Martinez Charging Station",South Randall,Pharmacy,4.5,4.65
+"Taylor, Brown and Bryan Restaurant",South Randall,Pharmacy,5.0,4.25
+Norris-Smith Cafe,South Randall,Pharmacy,4.5,3.72
+Johnson LLC Pharmacy,South Randall,Gas Station,4.5,4.74
+"Schmidt, Jones and Case Pharmacy",South Randall,Charging Station,4.1,4.34
+Baker PLC Charging Station,South Randall,Gas Station,3.4,0.69
+"Moore, Carrillo and Martinez Cafe",South Randall,Charging Station,3.6,1.46
+Powers-House Charging Station,South Randall,Gas Station,3.0,3.25
+Cooper-Jackson Pharmacy,South Randall,Gas Station,3.1,2.58
+Cantu-Gutierrez Cafe,South Randall,Cafe,3.0,2.27
+Shaffer-Robinson Restaurant,South Randall,Charging Station,3.7,2.51
+"Maldonado, Carey and Collins Gas Station",South Randall,Pharmacy,3.9,1.81
+Ryan LLC Cafe,South Randall,Restaurant,3.4,1.13

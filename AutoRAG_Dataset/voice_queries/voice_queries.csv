@@ -1,0 +1,502 @@
+user_id,name,timestamp,query_text,response_text,intent
+user_0,Tina Mccann,2025-01-30T00:00:00,Navigate to work.,Simulated response for: Navigate to work.,navigate
+user_0,Tina Mccann,2025-01-08T00:00:00,Show nearby charging stations.,Simulated response for: Show nearby charging stations.,show
+user_0,Tina Mccann,2025-01-25T00:00:00,Why did my battery drain so fast?,Simulated response for: Why did my battery drain so fast?,why
+user_0,Tina Mccann,2025-01-13T00:00:00,What is the current tire pressure?,Simulated response for: What is the current tire pressure?,what
+user_0,Tina Mccann,2025-02-12T00:00:00,How long was my last trip?,Simulated response for: How long was my last trip?,how
+user_0,Tina Mccann,2025-01-21T00:00:00,Remind me to service the car next week.,Simulated response for: Remind me to service the car next week.,remind
+user_0,Tina Mccann,2025-01-22T00:00:00,Play my favorite playlist.,Simulated response for: Play my favorite playlist.,play
+user_0,Tina Mccann,2025-02-13T00:00:00,Turn off the AC.,Simulated response for: Turn off the AC.,turn
+user_0,Tina Mccann,2025-02-18T00:00:00,How long was my last trip?,Simulated response for: How long was my last trip?,how
+user_0,Tina Mccann,2025-01-02T00:00:00,How long was my last trip?,Simulated response for: How long was my last trip?,how
+user_1,Calvin Jackson,2025-02-07T00:00:00,What warning did I get yesterday?,Simulated response for: What warning did I get yesterday?,what
+user_1,Calvin Jackson,2025-01-27T00:00:00,Why did my battery drain so fast?,Simulated response for: Why did my battery drain so fast?,why
+user_1,Calvin Jackson,2025-01-09T00:00:00,What warning did I get yesterday?,Simulated response for: What warning did I get yesterday?,what
+user_1,Calvin Jackson,2025-01-02T00:00:00,How long was my last trip?,Simulated response for: How long was my last trip?,how
+user_1,Calvin Jackson,2025-01-09T00:00:00,Turn off the AC.,Simulated response for: Turn off the AC.,turn
+user_1,Calvin Jackson,2025-02-02T00:00:00,Where did I drive last Tuesday?,Simulated response for: Where did I drive last Tuesday?,where
+user_1,Calvin Jackson,2025-02-13T00:00:00,Why did my battery drain so fast?,Simulated response for: Why did my battery drain so fast?,why
+user_1,Calvin Jackson,2025-03-01T00:00:00,Remind me to service the car next week.,Simulated response for: Remind me to service the car next week.,remind
+user_1,Calvin Jackson,2025-01-24T00:00:00,Play my favorite playlist.,Simulated response for: Play my favorite playlist.,play
+user_1,Calvin Jackson,2025-02-11T00:00:00,Why did my battery drain so fast?,Simulated response for: Why did my battery drain so fast?,why
+user_2,Thomas Macias,2025-03-02T00:00:00,Turn off the AC.,Simulated response for: Turn off the AC.,turn
+user_2,Thomas Macias,2025-01-09T00:00:00,How long was my last trip?,Simulated response for: How long was my last trip?,how
+user_2,Thomas Macias,2025-01-04T00:00:00,Remind me to service the car next week.,Simulated response for: Remind me to service the car next week.,remind
+user_2,Thomas Macias,2025-01-25T00:00:00,Turn off the AC.,Simulated response for: Turn off the AC.,turn
+user_2,Thomas Macias,2025-01-09T00:00:00,Remind me to service the car next week.,Simulated response for: Remind me to service the car next week.,remind
+user_2,Thomas Macias,2025-01-05T00:00:00,What warning did I get yesterday?,Simulated response for: What warning did I get yesterday?,what
+user_2,Thomas Macias,2025-03-01T00:00:00,Turn off the AC.,Simulated response for: Turn off the AC.,turn
+user_2,Thomas Macias,2025-02-26T00:00:00,Where did I drive last Tuesday?,Simulated response for: Where did I drive last Tuesday?,where
+user_2,Thomas Macias,2025-01-02T00:00:00,Show nearby charging stations.,Simulated response for: Show nearby charging stations.,show
+user_2,Thomas Macias,2025-02-14T00:00:00,How long was my last trip?,Simulated response for: How long was my last trip?,how
+user_3,Phillip White,2025-01-24T00:00:00,What warning did I get yesterday?,Simulated response for: What warning did I get yesterday?,what
+user_3,Phillip White,2025-02-01T00:00:00,Why did my battery drain so fast?,Simulated response for: Why did my battery drain so fast?,why
+user_3,Phillip White,2025-01-05T00:00:00,What warning did I get yesterday?,Simulated response for: What warning did I get yesterday?,what
+user_3,Phillip White,2025-01-31T00:00:00,Remind me to service the car next week.,Simulated response for: Remind me to service the car next week.,remind
+user_3,Phillip White,2025-01-31T00:00:00,Turn off the AC.,Simulated response for: Turn off the AC.,turn
+user_3,Phillip White,2025-01-17T00:00:00,Where did I drive last Tuesday?,Simulated response for: Where did I drive last Tuesday?,where
+user_3,Phillip White,2025-01-08T00:00:00,What is the current tire pressure?,Simulated response for: What is the current tire pressure?,what
+user_3,Phillip White,2025-02-19T00:00:00,Show nearby charging stations.,Simulated response for: Show nearby charging stations.,show
+user_3,Phillip White,2025-01-07T00:00:00,What warning did I get yesterday?,Simulated response for: What warning did I get yesterday?,what
+user_3,Phillip White,2025-01-21T00:00:00,Navigate to work.,Simulated response for: Navigate to work.,navigate
+user_4,Sharon Garcia,2025-03-01T00:00:00,Play my favorite playlist.,Simulated response for: Play my favorite playlist.,play
+user_4,Sharon Garcia,2025-01-06T00:00:00,What is the current tire pressure?,Simulated response for: What is the current tire pressure?,what
+user_4,Sharon Garcia,2025-01-05T00:00:00,Where did I drive last Tuesday?,Simulated response for: Where did I drive last Tuesday?,where
+user_4,Sharon Garcia,2025-01-28T00:00:00,Show nearby charging stations.,Simulated response for: Show nearby charging stations.,show
+user_4,Sharon Garcia,2025-01-29T00:00:00,How long was my last trip?,Simulated response for: How long was my last trip?,how
+user_4,Sharon Garcia,2025-01-29T00:00:00,Where did I drive last Tuesday?,Simulated response for: Where did I drive last Tuesday?,where
+user_4,Sharon Garcia,2025-01-11T00:00:00,Show nearby charging stations.,Simulated response for: Show nearby charging stations.,show
+user_4,Sharon Garcia,2025-02-15T00:00:00,Turn off the AC.,Simulated response for: Turn off the AC.,turn
+user_4,Sharon Garcia,2025-02-10T00:00:00,What is the current tire pressure?,Simulated response for: What is the current tire pressure?,what
+user_4,Sharon Garcia,2025-02-06T00:00:00,Turn off the AC.,Simulated response for: Turn off the AC.,turn
+user_5,Sheila Romero,2025-02-19T00:00:00,What warning did I get yesterday?,Simulated response for: What warning did I get yesterday?,what
+user_5,Sheila Romero,2025-02-08T00:00:00,Remind me to service the car next week.,Simulated response for: Remind me to service the car next week.,remind
+user_5,Sheila Romero,2025-02-16T00:00:00,Why did my battery drain so fast?,Simulated response for: Why did my battery drain so fast?,why
+user_5,Sheila Romero,2025-01-29T00:00:00,Remind me to service the car next week.,Simulated response for: Remind me to service the car next week.,remind
+user_5,Sheila Romero,2025-01-27T00:00:00,Where did I drive last Tuesday?,Simulated response for: Where did I drive last Tuesday?,where
+user_5,Sheila Romero,2025-02-11T00:00:00,Navigate to work.,Simulated response for: Navigate to work.,navigate
+user_5,Sheila Romero,2025-01-22T00:00:00,Remind me to service the car next week.,Simulated response for: Remind me to service the car next week.,remind
+user_5,Sheila Romero,2025-02-07T00:00:00,Navigate to work.,Simulated response for: Navigate to work.,navigate
+user_5,Sheila Romero,2025-01-23T00:00:00,What warning did I get yesterday?,Simulated response for: What warning did I get yesterday?,what
+user_5,Sheila Romero,2025-02-19T00:00:00,Play my favorite playlist.,Simulated response for: Play my favorite playlist.,play
+user_6,Emily Allen,2025-01-13T00:00:00,Why did my battery drain so fast?,Simulated response for: Why did my battery drain so fast?,why
+user_6,Emily Allen,2025-02-15T00:00:00,What is the current tire pressure?,Simulated response for: What is the current tire pressure?,what
+user_6,Emily Allen,2025-02-13T00:00:00,Remind me to service the car next week.,Simulated response for: Remind me to service the car next week.,remind
+user_6,Emily Allen,2025-02-09T00:00:00,Where did I drive last Tuesday?,Simulated response for: Where did I drive last Tuesday?,where
+user_6,Emily Allen,2025-01-08T00:00:00,Where did I drive last Tuesday?,Simulated response for: Where did I drive last Tuesday?,where
+user_6,Emily Allen,2025-02-22T00:00:00,How long was my last trip?,Simulated response for: How long was my last trip?,how
+user_6,Emily Allen,2025-01-23T00:00:00,What warning did I get yesterday?,Simulated response for: What warning did I get yesterday?,what
+user_6,Emily Allen,2025-02-28T00:00:00,Show nearby charging stations.,Simulated response for: Show nearby charging stations.,show
+user_6,Emily Allen,2025-01-18T00:00:00,How long was my last trip?,Simulated response for: How long was my last trip?,how
+user_6,Emily Allen,2025-02-20T00:00:00,Why did my battery drain so fast?,Simulated response for: Why did my battery drain so fast?,why
+user_7,Albert Skinner,2025-02-19T00:00:00,Show nearby charging stations.,Simulated response for: Show nearby charging stations.,show
+user_7,Albert Skinner,2025-01-26T00:00:00,What warning did I get yesterday?,Simulated response for: What warning did I get yesterday?,what
+user_7,Albert Skinner,2025-01-16T00:00:00,Play my favorite playlist.,Simulated response for: Play my favorite playlist.,play
+user_7,Albert Skinner,2025-01-03T00:00:00,Where did I drive last Tuesday?,Simulated response for: Where did I drive last Tuesday?,where
+user_7,Albert Skinner,2025-01-02T00:00:00,Show nearby charging stations.,Simulated response for: Show nearby charging stations.,show
+user_7,Albert Skinner,2025-01-21T00:00:00,Where did I drive last Tuesday?,Simulated response for: Where did I drive last Tuesday?,where
+user_7,Albert Skinner,2025-02-20T00:00:00,Remind me to service the car next week.,Simulated response for: Remind me to service the car next week.,remind
+user_7,Albert Skinner,2025-02-26T00:00:00,Play my favorite playlist.,Simulated response for: Play my favorite playlist.,play
+user_7,Albert Skinner,2025-02-04T00:00:00,Where did I drive last Tuesday?,Simulated response for: Where did I drive last Tuesday?,where
+user_7,Albert Skinner,2025-01-14T00:00:00,Play my favorite playlist.,Simulated response for: Play my favorite playlist.,play
+user_8,Kathryn Johnson,2025-01-02T00:00:00,Remind me to service the car next week.,Simulated response for: Remind me to service the car next week.,remind
+user_8,Kathryn Johnson,2025-01-26T00:00:00,Navigate to work.,Simulated response for: Navigate to work.,navigate
+user_8,Kathryn Johnson,2025-02-05T00:00:00,Turn off the AC.,Simulated response for: Turn off the AC.,turn
+user_8,Kathryn Johnson,2025-02-14T00:00:00,Turn off the AC.,Simulated response for: Turn off the AC.,turn
+user_8,Kathryn Johnson,2025-02-17T00:00:00,Turn off the AC.,Simulated response for: Turn off the AC.,turn
+user_8,Kathryn Johnson,2025-01-06T00:00:00,Show nearby charging stations.,Simulated response for: Show nearby charging stations.,show
+user_8,Kathryn Johnson,2025-01-20T00:00:00,What warning did I get yesterday?,Simulated response for: What warning did I get yesterday?,what
+user_8,Kathryn Johnson,2025-01-27T00:00:00,Navigate to work.,Simulated response for: Navigate to work.,navigate
+user_8,Kathryn Johnson,2025-02-15T00:00:00,Show nearby charging stations.,Simulated response for: Show nearby charging stations.,show
+user_8,Kathryn Johnson,2025-01-28T00:00:00,Turn off the AC.,Simulated response for: Turn off the AC.,turn
+user_9,Dorothy Mills,2025-01-28T00:00:00,What is the current tire pressure?,Simulated response for: What is the current tire pressure?,what
+user_9,Dorothy Mills,2025-01-18T00:00:00,Turn off the AC.,Simulated response for: Turn off the AC.,turn
+user_9,Dorothy Mills,2025-01-19T00:00:00,Why did my battery drain so fast?,Simulated response for: Why did my battery drain so fast?,why
+user_9,Dorothy Mills,2025-02-13T00:00:00,What warning did I get yesterday?,Simulated response for: What warning did I get yesterday?,what
+user_9,Dorothy Mills,2025-01-09T00:00:00,Play my favorite playlist.,Simulated response for: Play my favorite playlist.,play
+user_9,Dorothy Mills,2025-02-21T00:00:00,Navigate to work.,Simulated response for: Navigate to work.,navigate
+user_9,Dorothy Mills,2025-02-01T00:00:00,What warning did I get yesterday?,Simulated response for: What warning did I get yesterday?,what
+user_9,Dorothy Mills,2025-01-26T00:00:00,Where did I drive last Tuesday?,Simulated response for: Where did I drive last Tuesday?,where
+user_9,Dorothy Mills,2025-02-26T00:00:00,Play my favorite playlist.,Simulated response for: Play my favorite playlist.,play
+user_9,Dorothy Mills,2025-02-11T00:00:00,Play my favorite playlist.,Simulated response for: Play my favorite playlist.,play
+user_10,Jonathan Evans,2025-02-02T00:00:00,What warning did I get yesterday?,Simulated response for: What warning did I get yesterday?,what
+user_10,Jonathan Evans,2025-02-08T00:00:00,Turn off the AC.,Simulated response for: Turn off the AC.,turn
+user_10,Jonathan Evans,2025-01-10T00:00:00,Why did my battery drain so fast?,Simulated response for: Why did my battery drain so fast?,why
+user_10,Jonathan Evans,2025-02-17T00:00:00,How long was my last trip?,Simulated response for: How long was my last trip?,how
+user_10,Jonathan Evans,2025-01-14T00:00:00,Where did I drive last Tuesday?,Simulated response for: Where did I drive last Tuesday?,where
+user_10,Jonathan Evans,2025-01-02T00:00:00,Play my favorite playlist.,Simulated response for: Play my favorite playlist.,play
+user_10,Jonathan Evans,2025-02-19T00:00:00,Where did I drive last Tuesday?,Simulated response for: Where did I drive last Tuesday?,where
+user_10,Jonathan Evans,2025-02-13T00:00:00,Show nearby charging stations.,Simulated response for: Show nearby charging stations.,show
+user_10,Jonathan Evans,2025-01-03T00:00:00,Navigate to work.,Simulated response for: Navigate to work.,navigate
+user_10,Jonathan Evans,2025-02-10T00:00:00,Play my favorite playlist.,Simulated response for: Play my favorite playlist.,play
+user_11,Michael Howell,2025-01-23T00:00:00,What warning did I get yesterday?,Simulated response for: What warning did I get yesterday?,what
+user_11,Michael Howell,2025-01-10T00:00:00,Why did my battery drain so fast?,Simulated response for: Why did my battery drain so fast?,why
+user_11,Michael Howell,2025-02-09T00:00:00,Remind me to service the car next week.,Simulated response for: Remind me to service the car next week.,remind
+user_11,Michael Howell,2025-02-15T00:00:00,Why did my battery drain so fast?,Simulated response for: Why did my battery drain so fast?,why
+user_11,Michael Howell,2025-02-03T00:00:00,Play my favorite playlist.,Simulated response for: Play my favorite playlist.,play
+user_11,Michael Howell,2025-02-20T00:00:00,Show nearby charging stations.,Simulated response for: Show nearby charging stations.,show
+user_11,Michael Howell,2025-02-15T00:00:00,Navigate to work.,Simulated response for: Navigate to work.,navigate
+user_11,Michael Howell,2025-01-08T00:00:00,Turn off the AC.,Simulated response for: Turn off the AC.,turn
+user_11,Michael Howell,2025-01-11T00:00:00,What warning did I get yesterday?,Simulated response for: What warning did I get yesterday?,what
+user_11,Michael Howell,2025-01-04T00:00:00,What warning did I get yesterday?,Simulated response for: What warning did I get yesterday?,what
+user_12,Carrie Ortega,2025-02-08T00:00:00,Remind me to service the car next week.,Simulated response for: Remind me to service the car next week.,remind
+user_12,Carrie Ortega,2025-02-26T00:00:00,What is the current tire pressure?,Simulated response for: What is the current tire pressure?,what
+user_12,Carrie Ortega,2025-02-28T00:00:00,Where did I drive last Tuesday?,Simulated response for: Where did I drive last Tuesday?,where
+user_12,Carrie Ortega,2025-01-13T00:00:00,What warning did I get yesterday?,Simulated response for: What warning did I get yesterday?,what
+user_12,Carrie Ortega,2025-02-14T00:00:00,Why did my battery drain so fast?,Simulated response for: Why did my battery drain so fast?,why
+user_12,Carrie Ortega,2025-02-28T00:00:00,Why did my battery drain so fast?,Simulated response for: Why did my battery drain so fast?,why
+user_12,Carrie Ortega,2025-02-15T00:00:00,Play my favorite playlist.,Simulated response for: Play my favorite playlist.,play
+user_12,Carrie Ortega,2025-01-27T00:00:00,Show nearby charging stations.,Simulated response for: Show nearby charging stations.,show
+user_12,Carrie Ortega,2025-02-15T00:00:00,Where did I drive last Tuesday?,Simulated response for: Where did I drive last Tuesday?,where
+user_12,Carrie Ortega,2025-01-22T00:00:00,Play my favorite playlist.,Simulated response for: Play my favorite playlist.,play
+user_13,Christopher Cherry,2025-02-02T00:00:00,How long was my last trip?,Simulated response for: How long was my last trip?,how
+user_13,Christopher Cherry,2025-02-28T00:00:00,Show nearby charging stations.,Simulated response for: Show nearby charging stations.,show
+user_13,Christopher Cherry,2025-02-15T00:00:00,Play my favorite playlist.,Simulated response for: Play my favorite playlist.,play
+user_13,Christopher Cherry,2025-02-09T00:00:00,Play my favorite playlist.,Simulated response for: Play my favorite playlist.,play
+user_13,Christopher Cherry,2025-01-30T00:00:00,What warning did I get yesterday?,Simulated response for: What warning did I get yesterday?,what
+user_13,Christopher Cherry,2025-01-12T00:00:00,What warning did I get yesterday?,Simulated response for: What warning did I get yesterday?,what
+user_13,Christopher Cherry,2025-02-17T00:00:00,Show nearby charging stations.,Simulated response for: Show nearby charging stations.,show
+user_13,Christopher Cherry,2025-01-05T00:00:00,Play my favorite playlist.,Simulated response for: Play my favorite playlist.,play
+user_13,Christopher Cherry,2025-02-17T00:00:00,Navigate to work.,Simulated response for: Navigate to work.,navigate
+user_13,Christopher Cherry,2025-02-23T00:00:00,Remind me to service the car next week.,Simulated response for: Remind me to service the car next week.,remind
+user_14,Steven Dyer,2025-02-27T00:00:00,Remind me to service the car next week.,Simulated response for: Remind me to service the car next week.,remind
+user_14,Steven Dyer,2025-01-02T00:00:00,Why did my battery drain so fast?,Simulated response for: Why did my battery drain so fast?,why
+user_14,Steven Dyer,2025-01-14T00:00:00,Navigate to work.,Simulated response for: Navigate to work.,navigate
+user_14,Steven Dyer,2025-01-16T00:00:00,Why did my battery drain so fast?,Simulated response for: Why did my battery drain so fast?,why
+user_14,Steven Dyer,2025-02-16T00:00:00,How long was my last trip?,Simulated response for: How long was my last trip?,how
+user_14,Steven Dyer,2025-02-11T00:00:00,Turn off the AC.,Simulated response for: Turn off the AC.,turn
+user_14,Steven Dyer,2025-01-28T00:00:00,Turn off the AC.,Simulated response for: Turn off the AC.,turn
+user_14,Steven Dyer,2025-01-08T00:00:00,Navigate to work.,Simulated response for: Navigate to work.,navigate
+user_14,Steven Dyer,2025-02-06T00:00:00,Why did my battery drain so fast?,Simulated response for: Why did my battery drain so fast?,why
+user_14,Steven Dyer,2025-01-15T00:00:00,Where did I drive last Tuesday?,Simulated response for: Where did I drive last Tuesday?,where
+user_15,Lisa Walsh,2025-01-27T00:00:00,Where did I drive last Tuesday?,Simulated response for: Where did I drive last Tuesday?,where
+user_15,Lisa Walsh,2025-01-25T00:00:00,How long was my last trip?,Simulated response for: How long was my last trip?,how
+user_15,Lisa Walsh,2025-02-14T00:00:00,How long was my last trip?,Simulated response for: How long was my last trip?,how
+user_15,Lisa Walsh,2025-01-14T00:00:00,Navigate to work.,Simulated response for: Navigate to work.,navigate
+user_15,Lisa Walsh,2025-02-17T00:00:00,Where did I drive last Tuesday?,Simulated response for: Where did I drive last Tuesday?,where
+user_15,Lisa Walsh,2025-02-17T00:00:00,Where did I drive last Tuesday?,Simulated response for: Where did I drive last Tuesday?,where
+user_15,Lisa Walsh,2025-01-04T00:00:00,Navigate to work.,Simulated response for: Navigate to work.,navigate
+user_15,Lisa Walsh,2025-02-03T00:00:00,Show nearby charging stations.,Simulated response for: Show nearby charging stations.,show
+user_15,Lisa Walsh,2025-01-22T00:00:00,What is the current tire pressure?,Simulated response for: What is the current tire pressure?,what
+user_15,Lisa Walsh,2025-01-28T00:00:00,Remind me to service the car next week.,Simulated response for: Remind me to service the car next week.,remind
+user_16,Troy Curtis,2025-01-26T00:00:00,What is the current tire pressure?,Simulated response for: What is the current tire pressure?,what
+user_16,Troy Curtis,2025-01-16T00:00:00,What warning did I get yesterday?,Simulated response for: What warning did I get yesterday?,what
+user_16,Troy Curtis,2025-01-13T00:00:00,Why did my battery drain so fast?,Simulated response for: Why did my battery drain so fast?,why
+user_16,Troy Curtis,2025-01-10T00:00:00,Turn off the AC.,Simulated response for: Turn off the AC.,turn
+user_16,Troy Curtis,2025-01-14T00:00:00,Show nearby charging stations.,Simulated response for: Show nearby charging stations.,show
+user_16,Troy Curtis,2025-02-25T00:00:00,Why did my battery drain so fast?,Simulated response for: Why did my battery drain so fast?,why
+user_16,Troy Curtis,2025-01-17T00:00:00,Why did my battery drain so fast?,Simulated response for: Why did my battery drain so fast?,why
+user_16,Troy Curtis,2025-02-15T00:00:00,Where did I drive last Tuesday?,Simulated response for: Where did I drive last Tuesday?,where
+user_16,Troy Curtis,2025-02-01T00:00:00,Why did my battery drain so fast?,Simulated response for: Why did my battery drain so fast?,why
+user_16,Troy Curtis,2025-01-21T00:00:00,What warning did I get yesterday?,Simulated response for: What warning did I get yesterday?,what
+user_17,Lisa Chavez,2025-02-02T00:00:00,Play my favorite playlist.,Simulated response for: Play my favorite playlist.,play
+user_17,Lisa Chavez,2025-02-17T00:00:00,Play my favorite playlist.,Simulated response for: Play my favorite playlist.,play
+user_17,Lisa Chavez,2025-01-24T00:00:00,Where did I drive last Tuesday?,Simulated response for: Where did I drive last Tuesday?,where
+user_17,Lisa Chavez,2025-02-18T00:00:00,What warning did I get yesterday?,Simulated response for: What warning did I get yesterday?,what
+user_17,Lisa Chavez,2025-02-09T00:00:00,Show nearby charging stations.,Simulated response for: Show nearby charging stations.,show
+user_17,Lisa Chavez,2025-01-20T00:00:00,Remind me to service the car next week.,Simulated response for: Remind me to service the car next week.,remind
+user_17,Lisa Chavez,2025-01-20T00:00:00,What warning did I get yesterday?,Simulated response for: What warning did I get yesterday?,what
+user_17,Lisa Chavez,2025-02-26T00:00:00,Navigate to work.,Simulated response for: Navigate to work.,navigate
+user_17,Lisa Chavez,2025-02-19T00:00:00,What warning did I get yesterday?,Simulated response for: What warning did I get yesterday?,what
+user_17,Lisa Chavez,2025-01-09T00:00:00,How long was my last trip?,Simulated response for: How long was my last trip?,how
+user_18,Nicole Gray,2025-01-07T00:00:00,What warning did I get yesterday?,Simulated response for: What warning did I get yesterday?,what
+user_18,Nicole Gray,2025-02-04T00:00:00,Play my favorite playlist.,Simulated response for: Play my favorite playlist.,play
+user_18,Nicole Gray,2025-01-11T00:00:00,Why did my battery drain so fast?,Simulated response for: Why did my battery drain so fast?,why
+user_18,Nicole Gray,2025-03-01T00:00:00,Remind me to service the car next week.,Simulated response for: Remind me to service the car next week.,remind
+user_18,Nicole Gray,2025-02-12T00:00:00,How long was my last trip?,Simulated response for: How long was my last trip?,how
+user_18,Nicole Gray,2025-02-09T00:00:00,What warning did I get yesterday?,Simulated response for: What warning did I get yesterday?,what
+user_18,Nicole Gray,2025-02-23T00:00:00,How long was my last trip?,Simulated response for: How long was my last trip?,how
+user_18,Nicole Gray,2025-02-28T00:00:00,Play my favorite playlist.,Simulated response for: Play my favorite playlist.,play
+user_18,Nicole Gray,2025-02-20T00:00:00,Show nearby charging stations.,Simulated response for: Show nearby charging stations.,show
+user_18,Nicole Gray,2025-02-11T00:00:00,Play my favorite playlist.,Simulated response for: Play my favorite playlist.,play
+user_19,David Michael II,2025-02-18T00:00:00,How long was my last trip?,Simulated response for: How long was my last trip?,how
+user_19,David Michael II,2025-01-28T00:00:00,Turn off the AC.,Simulated response for: Turn off the AC.,turn
+user_19,David Michael II,2025-01-25T00:00:00,Play my favorite playlist.,Simulated response for: Play my favorite playlist.,play
+user_19,David Michael II,2025-02-24T00:00:00,What warning did I get yesterday?,Simulated response for: What warning did I get yesterday?,what
+user_19,David Michael II,2025-01-31T00:00:00,Show nearby charging stations.,Simulated response for: Show nearby charging stations.,show
+user_19,David Michael II,2025-01-11T00:00:00,What is the current tire pressure?,Simulated response for: What is the current tire pressure?,what
+user_19,David Michael II,2025-01-27T00:00:00,What is the current tire pressure?,Simulated response for: What is the current tire pressure?,what
+user_19,David Michael II,2025-01-02T00:00:00,Navigate to work.,Simulated response for: Navigate to work.,navigate
+user_19,David Michael II,2025-01-25T00:00:00,Remind me to service the car next week.,Simulated response for: Remind me to service the car next week.,remind
+user_19,David Michael II,2025-02-09T00:00:00,Remind me to service the car next week.,Simulated response for: Remind me to service the car next week.,remind
+user_20,Justin Ballard,2025-02-26T00:00:00,Where did I drive last Tuesday?,Simulated response for: Where did I drive last Tuesday?,where
+user_20,Justin Ballard,2025-01-20T00:00:00,Turn off the AC.,Simulated response for: Turn off the AC.,turn
+user_20,Justin Ballard,2025-01-15T00:00:00,Turn off the AC.,Simulated response for: Turn off the AC.,turn
+user_20,Justin Ballard,2025-01-02T00:00:00,What warning did I get yesterday?,Simulated response for: What warning did I get yesterday?,what
+user_20,Justin Ballard,2025-02-25T00:00:00,Show nearby charging stations.,Simulated response for: Show nearby charging stations.,show
+user_20,Justin Ballard,2025-01-21T00:00:00,Why did my battery drain so fast?,Simulated response for: Why did my battery drain so fast?,why
+user_20,Justin Ballard,2025-02-09T00:00:00,How long was my last trip?,Simulated response for: How long was my last trip?,how
+user_20,Justin Ballard,2025-01-15T00:00:00,Why did my battery drain so fast?,Simulated response for: Why did my battery drain so fast?,why
+user_20,Justin Ballard,2025-03-01T00:00:00,Where did I drive last Tuesday?,Simulated response for: Where did I drive last Tuesday?,where
+user_20,Justin Ballard,2025-01-20T00:00:00,What is the current tire pressure?,Simulated response for: What is the current tire pressure?,what
+user_21,Tina Brown,2025-02-03T00:00:00,Navigate to work.,Simulated response for: Navigate to work.,navigate
+user_21,Tina Brown,2025-01-05T00:00:00,Play my favorite playlist.,Simulated response for: Play my favorite playlist.,play
+user_21,Tina Brown,2025-02-25T00:00:00,Navigate to work.,Simulated response for: Navigate to work.,navigate
+user_21,Tina Brown,2025-02-20T00:00:00,What is the current tire pressure?,Simulated response for: What is the current tire pressure?,what
+user_21,Tina Brown,2025-02-03T00:00:00,How long was my last trip?,Simulated response for: How long was my last trip?,how
+user_21,Tina Brown,2025-01-11T00:00:00,What warning did I get yesterday?,Simulated response for: What warning did I get yesterday?,what
+user_21,Tina Brown,2025-02-03T00:00:00,What is the current tire pressure?,Simulated response for: What is the current tire pressure?,what
+user_21,Tina Brown,2025-02-04T00:00:00,Turn off the AC.,Simulated response for: Turn off the AC.,turn
+user_21,Tina Brown,2025-02-24T00:00:00,Navigate to work.,Simulated response for: Navigate to work.,navigate
+user_21,Tina Brown,2025-02-28T00:00:00,Where did I drive last Tuesday?,Simulated response for: Where did I drive last Tuesday?,where
+user_22,Maria Maxwell,2025-02-12T00:00:00,What warning did I get yesterday?,Simulated response for: What warning did I get yesterday?,what
+user_22,Maria Maxwell,2025-01-11T00:00:00,Play my favorite playlist.,Simulated response for: Play my favorite playlist.,play
+user_22,Maria Maxwell,2025-02-27T00:00:00,How long was my last trip?,Simulated response for: How long was my last trip?,how
+user_22,Maria Maxwell,2025-02-07T00:00:00,Navigate to work.,Simulated response for: Navigate to work.,navigate
+user_22,Maria Maxwell,2025-01-07T00:00:00,Remind me to service the car next week.,Simulated response for: Remind me to service the car next week.,remind
+user_22,Maria Maxwell,2025-01-05T00:00:00,Navigate to work.,Simulated response for: Navigate to work.,navigate
+user_22,Maria Maxwell,2025-01-12T00:00:00,How long was my last trip?,Simulated response for: How long was my last trip?,how
+user_22,Maria Maxwell,2025-02-19T00:00:00,Navigate to work.,Simulated response for: Navigate to work.,navigate
+user_22,Maria Maxwell,2025-01-21T00:00:00,Why did my battery drain so fast?,Simulated response for: Why did my battery drain so fast?,why
+user_22,Maria Maxwell,2025-01-03T00:00:00,Play my favorite playlist.,Simulated response for: Play my favorite playlist.,play
+user_23,Debra Cantrell,2025-01-13T00:00:00,Remind me to service the car next week.,Simulated response for: Remind me to service the car next week.,remind
+user_23,Debra Cantrell,2025-02-23T00:00:00,Where did I drive last Tuesday?,Simulated response for: Where did I drive last Tuesday?,where
+user_23,Debra Cantrell,2025-01-04T00:00:00,Show nearby charging stations.,Simulated response for: Show nearby charging stations.,show
+user_23,Debra Cantrell,2025-02-18T00:00:00,How long was my last trip?,Simulated response for: How long was my last trip?,how
+user_23,Debra Cantrell,2025-02-27T00:00:00,Remind me to service the car next week.,Simulated response for: Remind me to service the car next week.,remind
+user_23,Debra Cantrell,2025-02-27T00:00:00,What is the current tire pressure?,Simulated response for: What is the current tire pressure?,what
+user_23,Debra Cantrell,2025-02-21T00:00:00,What warning did I get yesterday?,Simulated response for: What warning did I get yesterday?,what
+user_23,Debra Cantrell,2025-02-06T00:00:00,Play my favorite playlist.,Simulated response for: Play my favorite playlist.,play
+user_23,Debra Cantrell,2025-01-24T00:00:00,What is the current tire pressure?,Simulated response for: What is the current tire pressure?,what
+user_23,Debra Cantrell,2025-01-15T00:00:00,Show nearby charging stations.,Simulated response for: Show nearby charging stations.,show
+user_24,Derek Parker,2025-02-03T00:00:00,Why did my battery drain so fast?,Simulated response for: Why did my battery drain so fast?,why
+user_24,Derek Parker,2025-02-12T00:00:00,Where did I drive last Tuesday?,Simulated response for: Where did I drive last Tuesday?,where
+user_24,Derek Parker,2025-02-20T00:00:00,Turn off the AC.,Simulated response for: Turn off the AC.,turn
+user_24,Derek Parker,2025-01-06T00:00:00,Where did I drive last Tuesday?,Simulated response for: Where did I drive last Tuesday?,where
+user_24,Derek Parker,2025-01-29T00:00:00,Show nearby charging stations.,Simulated response for: Show nearby charging stations.,show
+user_24,Derek Parker,2025-02-23T00:00:00,Where did I drive last Tuesday?,Simulated response for: Where did I drive last Tuesday?,where
+user_24,Derek Parker,2025-02-23T00:00:00,Why did my battery drain so fast?,Simulated response for: Why did my battery drain so fast?,why
+user_24,Derek Parker,2025-01-20T00:00:00,Navigate to work.,Simulated response for: Navigate to work.,navigate
+user_24,Derek Parker,2025-01-18T00:00:00,What is the current tire pressure?,Simulated response for: What is the current tire pressure?,what
+user_24,Derek Parker,2025-01-09T00:00:00,Play my favorite playlist.,Simulated response for: Play my favorite playlist.,play
+user_25,Cole Barnes,2025-01-13T00:00:00,Why did my battery drain so fast?,Simulated response for: Why did my battery drain so fast?,why
+user_25,Cole Barnes,2025-01-18T00:00:00,Remind me to service the car next week.,Simulated response for: Remind me to service the car next week.,remind
+user_25,Cole Barnes,2025-01-13T00:00:00,Turn off the AC.,Simulated response for: Turn off the AC.,turn
+user_25,Cole Barnes,2025-01-08T00:00:00,What is the current tire pressure?,Simulated response for: What is the current tire pressure?,what
+user_25,Cole Barnes,2025-02-21T00:00:00,Turn off the AC.,Simulated response for: Turn off the AC.,turn
+user_25,Cole Barnes,2025-02-06T00:00:00,Navigate to work.,Simulated response for: Navigate to work.,navigate
+user_25,Cole Barnes,2025-01-20T00:00:00,Where did I drive last Tuesday?,Simulated response for: Where did I drive last Tuesday?,where
+user_25,Cole Barnes,2025-01-31T00:00:00,Remind me to service the car next week.,Simulated response for: Remind me to service the car next week.,remind
+user_25,Cole Barnes,2025-02-08T00:00:00,How long was my last trip?,Simulated response for: How long was my last trip?,how
+user_25,Cole Barnes,2025-01-12T00:00:00,Play my favorite playlist.,Simulated response for: Play my favorite playlist.,play
+user_26,Edward Soto,2025-01-29T00:00:00,Navigate to work.,Simulated response for: Navigate to work.,navigate
+user_26,Edward Soto,2025-01-24T00:00:00,Play my favorite playlist.,Simulated response for: Play my favorite playlist.,play
+user_26,Edward Soto,2025-02-15T00:00:00,Turn off the AC.,Simulated response for: Turn off the AC.,turn
+user_26,Edward Soto,2025-02-19T00:00:00,Why did my battery drain so fast?,Simulated response for: Why did my battery drain so fast?,why
+user_26,Edward Soto,2025-03-02T00:00:00,What is the current tire pressure?,Simulated response for: What is the current tire pressure?,what
+user_26,Edward Soto,2025-02-01T00:00:00,Where did I drive last Tuesday?,Simulated response for: Where did I drive last Tuesday?,where
+user_26,Edward Soto,2025-01-09T00:00:00,Play my favorite playlist.,Simulated response for: Play my favorite playlist.,play
+user_26,Edward Soto,2025-02-26T00:00:00,What is the current tire pressure?,Simulated response for: What is the current tire pressure?,what
+user_26,Edward Soto,2025-02-23T00:00:00,How long was my last trip?,Simulated response for: How long was my last trip?,how
+user_26,Edward Soto,2025-03-02T00:00:00,Navigate to work.,Simulated response for: Navigate to work.,navigate
+user_27,Annette Farley,2025-02-15T00:00:00,Navigate to work.,Simulated response for: Navigate to work.,navigate
+user_27,Annette Farley,2025-01-25T00:00:00,Navigate to work.,Simulated response for: Navigate to work.,navigate
+user_27,Annette Farley,2025-01-05T00:00:00,Navigate to work.,Simulated response for: Navigate to work.,navigate
+user_27,Annette Farley,2025-01-16T00:00:00,Remind me to service the car next week.,Simulated response for: Remind me to service the car next week.,remind
+user_27,Annette Farley,2025-01-18T00:00:00,Where did I drive last Tuesday?,Simulated response for: Where did I drive last Tuesday?,where
+user_27,Annette Farley,2025-02-21T00:00:00,Why did my battery drain so fast?,Simulated response for: Why did my battery drain so fast?,why
+user_27,Annette Farley,2025-02-20T00:00:00,Show nearby charging stations.,Simulated response for: Show nearby charging stations.,show
+user_27,Annette Farley,2025-02-12T00:00:00,What warning did I get yesterday?,Simulated response for: What warning did I get yesterday?,what
+user_27,Annette Farley,2025-01-31T00:00:00,Navigate to work.,Simulated response for: Navigate to work.,navigate
+user_27,Annette Farley,2025-02-25T00:00:00,Why did my battery drain so fast?,Simulated response for: Why did my battery drain so fast?,why
+user_28,Danielle Burke,2025-01-27T00:00:00,Where did I drive last Tuesday?,Simulated response for: Where did I drive last Tuesday?,where
+user_28,Danielle Burke,2025-02-27T00:00:00,Show nearby charging stations.,Simulated response for: Show nearby charging stations.,show
+user_28,Danielle Burke,2025-01-25T00:00:00,Navigate to work.,Simulated response for: Navigate to work.,navigate
+user_28,Danielle Burke,2025-01-05T00:00:00,Navigate to work.,Simulated response for: Navigate to work.,navigate
+user_28,Danielle Burke,2025-01-02T00:00:00,What is the current tire pressure?,Simulated response for: What is the current tire pressure?,what
+user_28,Danielle Burke,2025-02-10T00:00:00,Where did I drive last Tuesday?,Simulated response for: Where did I drive last Tuesday?,where
+user_28,Danielle Burke,2025-03-02T00:00:00,What is the current tire pressure?,Simulated response for: What is the current tire pressure?,what
+user_28,Danielle Burke,2025-01-05T00:00:00,Why did my battery drain so fast?,Simulated response for: Why did my battery drain so fast?,why
+user_28,Danielle Burke,2025-02-27T00:00:00,What is the current tire pressure?,Simulated response for: What is the current tire pressure?,what
+user_28,Danielle Burke,2025-01-17T00:00:00,Show nearby charging stations.,Simulated response for: Show nearby charging stations.,show
+user_29,Gerald Smith,2025-02-02T00:00:00,Navigate to work.,Simulated response for: Navigate to work.,navigate
+user_29,Gerald Smith,2025-01-22T00:00:00,Show nearby charging stations.,Simulated response for: Show nearby charging stations.,show
+user_29,Gerald Smith,2025-02-20T00:00:00,What warning did I get yesterday?,Simulated response for: What warning did I get yesterday?,what
+user_29,Gerald Smith,2025-02-20T00:00:00,Where did I drive last Tuesday?,Simulated response for: Where did I drive last Tuesday?,where
+user_29,Gerald Smith,2025-01-02T00:00:00,Navigate to work.,Simulated response for: Navigate to work.,navigate
+user_29,Gerald Smith,2025-01-14T00:00:00,Navigate to work.,Simulated response for: Navigate to work.,navigate
+user_29,Gerald Smith,2025-01-07T00:00:00,Show nearby charging stations.,Simulated response for: Show nearby charging stations.,show
+user_29,Gerald Smith,2025-01-28T00:00:00,Turn off the AC.,Simulated response for: Turn off the AC.,turn
+user_29,Gerald Smith,2025-02-24T00:00:00,Turn off the AC.,Simulated response for: Turn off the AC.,turn
+user_29,Gerald Smith,2025-02-13T00:00:00,Show nearby charging stations.,Simulated response for: Show nearby charging stations.,show
+user_30,Jessica Nguyen,2025-02-04T00:00:00,Navigate to work.,Simulated response for: Navigate to work.,navigate
+user_30,Jessica Nguyen,2025-02-07T00:00:00,Remind me to service the car next week.,Simulated response for: Remind me to service the car next week.,remind
+user_30,Jessica Nguyen,2025-02-26T00:00:00,What warning did I get yesterday?,Simulated response for: What warning did I get yesterday?,what
+user_30,Jessica Nguyen,2025-02-15T00:00:00,Why did my battery drain so fast?,Simulated response for: Why did my battery drain so fast?,why
+user_30,Jessica Nguyen,2025-02-10T00:00:00,How long was my last trip?,Simulated response for: How long was my last trip?,how
+user_30,Jessica Nguyen,2025-02-26T00:00:00,Show nearby charging stations.,Simulated response for: Show nearby charging stations.,show
+user_30,Jessica Nguyen,2025-01-26T00:00:00,How long was my last trip?,Simulated response for: How long was my last trip?,how
+user_30,Jessica Nguyen,2025-01-16T00:00:00,How long was my last trip?,Simulated response for: How long was my last trip?,how
+user_30,Jessica Nguyen,2025-01-06T00:00:00,Navigate to work.,Simulated response for: Navigate to work.,navigate
+user_30,Jessica Nguyen,2025-02-07T00:00:00,Turn off the AC.,Simulated response for: Turn off the AC.,turn
+user_31,Kimberly King,2025-01-04T00:00:00,Where did I drive last Tuesday?,Simulated response for: Where did I drive last Tuesday?,where
+user_31,Kimberly King,2025-01-09T00:00:00,Navigate to work.,Simulated response for: Navigate to work.,navigate
+user_31,Kimberly King,2025-02-15T00:00:00,Turn off the AC.,Simulated response for: Turn off the AC.,turn
+user_31,Kimberly King,2025-02-27T00:00:00,Where did I drive last Tuesday?,Simulated response for: Where did I drive last Tuesday?,where
+user_31,Kimberly King,2025-01-16T00:00:00,What is the current tire pressure?,Simulated response for: What is the current tire pressure?,what
+user_31,Kimberly King,2025-02-20T00:00:00,Play my favorite playlist.,Simulated response for: Play my favorite playlist.,play
+user_31,Kimberly King,2025-02-04T00:00:00,What warning did I get yesterday?,Simulated response for: What warning did I get yesterday?,what
+user_31,Kimberly King,2025-02-20T00:00:00,Navigate to work.,Simulated response for: Navigate to work.,navigate
+user_31,Kimberly King,2025-01-09T00:00:00,Remind me to service the car next week.,Simulated response for: Remind me to service the car next week.,remind
+user_31,Kimberly King,2025-02-12T00:00:00,Why did my battery drain so fast?,Simulated response for: Why did my battery drain so fast?,why
+user_32,Sean Owen,2025-02-10T00:00:00,What warning did I get yesterday?,Simulated response for: What warning did I get yesterday?,what
+user_32,Sean Owen,2025-02-15T00:00:00,What is the current tire pressure?,Simulated response for: What is the current tire pressure?,what
+user_32,Sean Owen,2025-01-19T00:00:00,Show nearby charging stations.,Simulated response for: Show nearby charging stations.,show
+user_32,Sean Owen,2025-01-27T00:00:00,Turn off the AC.,Simulated response for: Turn off the AC.,turn
+user_32,Sean Owen,2025-01-30T00:00:00,Where did I drive last Tuesday?,Simulated response for: Where did I drive last Tuesday?,where
+user_32,Sean Owen,2025-01-31T00:00:00,What warning did I get yesterday?,Simulated response for: What warning did I get yesterday?,what
+user_32,Sean Owen,2025-01-22T00:00:00,What is the current tire pressure?,Simulated response for: What is the current tire pressure?,what
+user_32,Sean Owen,2025-01-25T00:00:00,Why did my battery drain so fast?,Simulated response for: Why did my battery drain so fast?,why
+user_32,Sean Owen,2025-02-02T00:00:00,Where did I drive last Tuesday?,Simulated response for: Where did I drive last Tuesday?,where
+user_32,Sean Owen,2025-03-02T00:00:00,Remind me to service the car next week.,Simulated response for: Remind me to service the car next week.,remind
+user_33,Doris Waller,2025-02-03T00:00:00,How long was my last trip?,Simulated response for: How long was my last trip?,how
+user_33,Doris Waller,2025-02-06T00:00:00,How long was my last trip?,Simulated response for: How long was my last trip?,how
+user_33,Doris Waller,2025-01-20T00:00:00,Where did I drive last Tuesday?,Simulated response for: Where did I drive last Tuesday?,where
+user_33,Doris Waller,2025-02-02T00:00:00,What is the current tire pressure?,Simulated response for: What is the current tire pressure?,what
+user_33,Doris Waller,2025-01-05T00:00:00,Navigate to work.,Simulated response for: Navigate to work.,navigate
+user_33,Doris Waller,2025-01-07T00:00:00,Where did I drive last Tuesday?,Simulated response for: Where did I drive last Tuesday?,where
+user_33,Doris Waller,2025-02-06T00:00:00,Show nearby charging stations.,Simulated response for: Show nearby charging stations.,show
+user_33,Doris Waller,2025-01-25T00:00:00,Turn off the AC.,Simulated response for: Turn off the AC.,turn
+user_33,Doris Waller,2025-01-30T00:00:00,Navigate to work.,Simulated response for: Navigate to work.,navigate
+user_33,Doris Waller,2025-01-31T00:00:00,Turn off the AC.,Simulated response for: Turn off the AC.,turn
+user_34,Paula Crawford,2025-02-08T00:00:00,What warning did I get yesterday?,Simulated response for: What warning did I get yesterday?,what
+user_34,Paula Crawford,2025-01-17T00:00:00,What warning did I get yesterday?,Simulated response for: What warning did I get yesterday?,what
+user_34,Paula Crawford,2025-01-13T00:00:00,Navigate to work.,Simulated response for: Navigate to work.,navigate
+user_34,Paula Crawford,2025-01-09T00:00:00,What warning did I get yesterday?,Simulated response for: What warning did I get yesterday?,what
+user_34,Paula Crawford,2025-01-05T00:00:00,What is the current tire pressure?,Simulated response for: What is the current tire pressure?,what
+user_34,Paula Crawford,2025-02-08T00:00:00,Remind me to service the car next week.,Simulated response for: Remind me to service the car next week.,remind
+user_34,Paula Crawford,2025-01-26T00:00:00,Why did my battery drain so fast?,Simulated response for: Why did my battery drain so fast?,why
+user_34,Paula Crawford,2025-02-08T00:00:00,How long was my last trip?,Simulated response for: How long was my last trip?,how
+user_34,Paula Crawford,2025-01-08T00:00:00,How long was my last trip?,Simulated response for: How long was my last trip?,how
+user_34,Paula Crawford,2025-02-13T00:00:00,Why did my battery drain so fast?,Simulated response for: Why did my battery drain so fast?,why
+user_35,Craig Mason,2025-02-08T00:00:00,What is the current tire pressure?,Simulated response for: What is the current tire pressure?,what
+user_35,Craig Mason,2025-02-13T00:00:00,What is the current tire pressure?,Simulated response for: What is the current tire pressure?,what
+user_35,Craig Mason,2025-01-14T00:00:00,Navigate to work.,Simulated response for: Navigate to work.,navigate
+user_35,Craig Mason,2025-02-08T00:00:00,Turn off the AC.,Simulated response for: Turn off the AC.,turn
+user_35,Craig Mason,2025-01-27T00:00:00,Play my favorite playlist.,Simulated response for: Play my favorite playlist.,play
+user_35,Craig Mason,2025-01-19T00:00:00,Navigate to work.,Simulated response for: Navigate to work.,navigate
+user_35,Craig Mason,2025-01-07T00:00:00,Turn off the AC.,Simulated response for: Turn off the AC.,turn
+user_35,Craig Mason,2025-02-13T00:00:00,Show nearby charging stations.,Simulated response for: Show nearby charging stations.,show
+user_35,Craig Mason,2025-02-17T00:00:00,Show nearby charging stations.,Simulated response for: Show nearby charging stations.,show
+user_35,Craig Mason,2025-01-10T00:00:00,Remind me to service the car next week.,Simulated response for: Remind me to service the car next week.,remind
+user_36,Sarah Vincent DDS,2025-02-13T00:00:00,Navigate to work.,Simulated response for: Navigate to work.,navigate
+user_36,Sarah Vincent DDS,2025-02-18T00:00:00,Remind me to service the car next week.,Simulated response for: Remind me to service the car next week.,remind
+user_36,Sarah Vincent DDS,2025-02-11T00:00:00,Why did my battery drain so fast?,Simulated response for: Why did my battery drain so fast?,why
+user_36,Sarah Vincent DDS,2025-02-11T00:00:00,Where did I drive last Tuesday?,Simulated response for: Where did I drive last Tuesday?,where
+user_36,Sarah Vincent DDS,2025-01-24T00:00:00,Where did I drive last Tuesday?,Simulated response for: Where did I drive last Tuesday?,where
+user_36,Sarah Vincent DDS,2025-01-23T00:00:00,Why did my battery drain so fast?,Simulated response for: Why did my battery drain so fast?,why
+user_36,Sarah Vincent DDS,2025-01-03T00:00:00,Show nearby charging stations.,Simulated response for: Show nearby charging stations.,show
+user_36,Sarah Vincent DDS,2025-01-10T00:00:00,Why did my battery drain so fast?,Simulated response for: Why did my battery drain so fast?,why
+user_36,Sarah Vincent DDS,2025-01-20T00:00:00,What warning did I get yesterday?,Simulated response for: What warning did I get yesterday?,what
+user_36,Sarah Vincent DDS,2025-02-23T00:00:00,Show nearby charging stations.,Simulated response for: Show nearby charging stations.,show
+user_37,Adam Johnson,2025-02-15T00:00:00,What warning did I get yesterday?,Simulated response for: What warning did I get yesterday?,what
+user_37,Adam Johnson,2025-02-18T00:00:00,How long was my last trip?,Simulated response for: How long was my last trip?,how
+user_37,Adam Johnson,2025-01-24T00:00:00,How long was my last trip?,Simulated response for: How long was my last trip?,how
+user_37,Adam Johnson,2025-02-06T00:00:00,What warning did I get yesterday?,Simulated response for: What warning did I get yesterday?,what
+user_37,Adam Johnson,2025-02-27T00:00:00,Navigate to work.,Simulated response for: Navigate to work.,navigate
+user_37,Adam Johnson,2025-02-20T00:00:00,Navigate to work.,Simulated response for: Navigate to work.,navigate
+user_37,Adam Johnson,2025-01-18T00:00:00,Navigate to work.,Simulated response for: Navigate to work.,navigate
+user_37,Adam Johnson,2025-01-14T00:00:00,Where did I drive last Tuesday?,Simulated response for: Where did I drive last Tuesday?,where
+user_37,Adam Johnson,2025-02-13T00:00:00,How long was my last trip?,Simulated response for: How long was my last trip?,how
+user_37,Adam Johnson,2025-01-04T00:00:00,Why did my battery drain so fast?,Simulated response for: Why did my battery drain so fast?,why
+user_38,Katherine Case,2025-02-08T00:00:00,Play my favorite playlist.,Simulated response for: Play my favorite playlist.,play
+user_38,Katherine Case,2025-02-23T00:00:00,Turn off the AC.,Simulated response for: Turn off the AC.,turn
+user_38,Katherine Case,2025-01-29T00:00:00,What warning did I get yesterday?,Simulated response for: What warning did I get yesterday?,what
+user_38,Katherine Case,2025-02-02T00:00:00,Turn off the AC.,Simulated response for: Turn off the AC.,turn
+user_38,Katherine Case,2025-02-11T00:00:00,Turn off the AC.,Simulated response for: Turn off the AC.,turn
+user_38,Katherine Case,2025-01-15T00:00:00,Show nearby charging stations.,Simulated response for: Show nearby charging stations.,show
+user_38,Katherine Case,2025-01-26T00:00:00,Play my favorite playlist.,Simulated response for: Play my favorite playlist.,play
+user_38,Katherine Case,2025-01-09T00:00:00,Play my favorite playlist.,Simulated response for: Play my favorite playlist.,play
+user_38,Katherine Case,2025-01-03T00:00:00,Where did I drive last Tuesday?,Simulated response for: Where did I drive last Tuesday?,where
+user_38,Katherine Case,2025-02-13T00:00:00,Show nearby charging stations.,Simulated response for: Show nearby charging stations.,show
+user_39,Nicole Terry,2025-01-23T00:00:00,Turn off the AC.,Simulated response for: Turn off the AC.,turn
+user_39,Nicole Terry,2025-02-10T00:00:00,Turn off the AC.,Simulated response for: Turn off the AC.,turn
+user_39,Nicole Terry,2025-02-01T00:00:00,Why did my battery drain so fast?,Simulated response for: Why did my battery drain so fast?,why
+user_39,Nicole Terry,2025-02-07T00:00:00,Play my favorite playlist.,Simulated response for: Play my favorite playlist.,play
+user_39,Nicole Terry,2025-02-24T00:00:00,What warning did I get yesterday?,Simulated response for: What warning did I get yesterday?,what
+user_39,Nicole Terry,2025-01-25T00:00:00,Remind me to service the car next week.,Simulated response for: Remind me to service the car next week.,remind
+user_39,Nicole Terry,2025-01-22T00:00:00,What warning did I get yesterday?,Simulated response for: What warning did I get yesterday?,what
+user_39,Nicole Terry,2025-01-08T00:00:00,Play my favorite playlist.,Simulated response for: Play my favorite playlist.,play
+user_39,Nicole Terry,2025-02-04T00:00:00,Navigate to work.,Simulated response for: Navigate to work.,navigate
+user_39,Nicole Terry,2025-01-28T00:00:00,Show nearby charging stations.,Simulated response for: Show nearby charging stations.,show
+user_40,Joan Moore,2025-01-15T00:00:00,Play my favorite playlist.,Simulated response for: Play my favorite playlist.,play
+user_40,Joan Moore,2025-02-05T00:00:00,Where did I drive last Tuesday?,Simulated response for: Where did I drive last Tuesday?,where
+user_40,Joan Moore,2025-02-20T00:00:00,What warning did I get yesterday?,Simulated response for: What warning did I get yesterday?,what
+user_40,Joan Moore,2025-01-11T00:00:00,What is the current tire pressure?,Simulated response for: What is the current tire pressure?,what
+user_40,Joan Moore,2025-01-03T00:00:00,How long was my last trip?,Simulated response for: How long was my last trip?,how
+user_40,Joan Moore,2025-01-29T00:00:00,What is the current tire pressure?,Simulated response for: What is the current tire pressure?,what
+user_40,Joan Moore,2025-01-10T00:00:00,What warning did I get yesterday?,Simulated response for: What warning did I get yesterday?,what
+user_40,Joan Moore,2025-01-10T00:00:00,Why did my battery drain so fast?,Simulated response for: Why did my battery drain so fast?,why
+user_40,Joan Moore,2025-01-21T00:00:00,Where did I drive last Tuesday?,Simulated response for: Where did I drive last Tuesday?,where
+user_40,Joan Moore,2025-01-06T00:00:00,Why did my battery drain so fast?,Simulated response for: Why did my battery drain so fast?,why
+user_41,Kevin Ward,2025-01-27T00:00:00,Remind me to service the car next week.,Simulated response for: Remind me to service the car next week.,remind
+user_41,Kevin Ward,2025-02-14T00:00:00,Turn off the AC.,Simulated response for: Turn off the AC.,turn
+user_41,Kevin Ward,2025-02-25T00:00:00,Play my favorite playlist.,Simulated response for: Play my favorite playlist.,play
+user_41,Kevin Ward,2025-02-22T00:00:00,Where did I drive last Tuesday?,Simulated response for: Where did I drive last Tuesday?,where
+user_41,Kevin Ward,2025-01-11T00:00:00,What is the current tire pressure?,Simulated response for: What is the current tire pressure?,what
+user_41,Kevin Ward,2025-02-14T00:00:00,What is the current tire pressure?,Simulated response for: What is the current tire pressure?,what
+user_41,Kevin Ward,2025-02-07T00:00:00,Navigate to work.,Simulated response for: Navigate to work.,navigate
+user_41,Kevin Ward,2025-02-11T00:00:00,Navigate to work.,Simulated response for: Navigate to work.,navigate
+user_41,Kevin Ward,2025-01-20T00:00:00,Navigate to work.,Simulated response for: Navigate to work.,navigate
+user_41,Kevin Ward,2025-02-15T00:00:00,Navigate to work.,Simulated response for: Navigate to work.,navigate
+user_42,James Cortez,2025-01-19T00:00:00,Navigate to work.,Simulated response for: Navigate to work.,navigate
+user_42,James Cortez,2025-02-21T00:00:00,Where did I drive last Tuesday?,Simulated response for: Where did I drive last Tuesday?,where
+user_42,James Cortez,2025-02-16T00:00:00,What warning did I get yesterday?,Simulated response for: What warning did I get yesterday?,what
+user_42,James Cortez,2025-02-10T00:00:00,Turn off the AC.,Simulated response for: Turn off the AC.,turn
+user_42,James Cortez,2025-02-07T00:00:00,Turn off the AC.,Simulated response for: Turn off the AC.,turn
+user_42,James Cortez,2025-01-26T00:00:00,Play my favorite playlist.,Simulated response for: Play my favorite playlist.,play
+user_42,James Cortez,2025-01-13T00:00:00,How long was my last trip?,Simulated response for: How long was my last trip?,how
+user_42,James Cortez,2025-01-16T00:00:00,Navigate to work.,Simulated response for: Navigate to work.,navigate
+user_42,James Cortez,2025-01-30T00:00:00,How long was my last trip?,Simulated response for: How long was my last trip?,how
+user_42,James Cortez,2025-01-05T00:00:00,Why did my battery drain so fast?,Simulated response for: Why did my battery drain so fast?,why
+user_43,Michael Martin,2025-02-12T00:00:00,Turn off the AC.,Simulated response for: Turn off the AC.,turn
+user_43,Michael Martin,2025-01-25T00:00:00,How long was my last trip?,Simulated response for: How long was my last trip?,how
+user_43,Michael Martin,2025-02-17T00:00:00,How long was my last trip?,Simulated response for: How long was my last trip?,how
+user_43,Michael Martin,2025-01-03T00:00:00,Where did I drive last Tuesday?,Simulated response for: Where did I drive last Tuesday?,where
+user_43,Michael Martin,2025-02-26T00:00:00,Play my favorite playlist.,Simulated response for: Play my favorite playlist.,play
+user_43,Michael Martin,2025-02-08T00:00:00,Play my favorite playlist.,Simulated response for: Play my favorite playlist.,play
+user_43,Michael Martin,2025-02-19T00:00:00,Remind me to service the car next week.,Simulated response for: Remind me to service the car next week.,remind
+user_43,Michael Martin,2025-01-03T00:00:00,What is the current tire pressure?,Simulated response for: What is the current tire pressure?,what
+user_43,Michael Martin,2025-01-21T00:00:00,Show nearby charging stations.,Simulated response for: Show nearby charging stations.,show
+user_43,Michael Martin,2025-02-28T00:00:00,Navigate to work.,Simulated response for: Navigate to work.,navigate
+user_44,Samantha Gonzalez,2025-01-24T00:00:00,Show nearby charging stations.,Simulated response for: Show nearby charging stations.,show
+user_44,Samantha Gonzalez,2025-01-15T00:00:00,Remind me to service the car next week.,Simulated response for: Remind me to service the car next week.,remind
+user_44,Samantha Gonzalez,2025-01-09T00:00:00,Why did my battery drain so fast?,Simulated response for: Why did my battery drain so fast?,why
+user_44,Samantha Gonzalez,2025-01-26T00:00:00,What is the current tire pressure?,Simulated response for: What is the current tire pressure?,what
+user_44,Samantha Gonzalez,2025-02-01T00:00:00,Where did I drive last Tuesday?,Simulated response for: Where did I drive last Tuesday?,where
+user_44,Samantha Gonzalez,2025-02-27T00:00:00,Navigate to work.,Simulated response for: Navigate to work.,navigate
+user_44,Samantha Gonzalez,2025-02-02T00:00:00,Turn off the AC.,Simulated response for: Turn off the AC.,turn
+user_44,Samantha Gonzalez,2025-02-01T00:00:00,How long was my last trip?,Simulated response for: How long was my last trip?,how
+user_44,Samantha Gonzalez,2025-02-09T00:00:00,Navigate to work.,Simulated response for: Navigate to work.,navigate
+user_44,Samantha Gonzalez,2025-02-27T00:00:00,Show nearby charging stations.,Simulated response for: Show nearby charging stations.,show
+user_45,James Blackwell,2025-02-17T00:00:00,How long was my last trip?,Simulated response for: How long was my last trip?,how
+user_45,James Blackwell,2025-02-20T00:00:00,Turn off the AC.,Simulated response for: Turn off the AC.,turn
+user_45,James Blackwell,2025-01-09T00:00:00,Navigate to work.,Simulated response for: Navigate to work.,navigate
+user_45,James Blackwell,2025-01-24T00:00:00,Navigate to work.,Simulated response for: Navigate to work.,navigate
+user_45,James Blackwell,2025-01-04T00:00:00,Play my favorite playlist.,Simulated response for: Play my favorite playlist.,play
+user_45,James Blackwell,2025-02-25T00:00:00,Navigate to work.,Simulated response for: Navigate to work.,navigate
+user_45,James Blackwell,2025-01-21T00:00:00,Turn off the AC.,Simulated response for: Turn off the AC.,turn
+user_45,James Blackwell,2025-02-15T00:00:00,How long was my last trip?,Simulated response for: How long was my last trip?,how
+user_45,James Blackwell,2025-03-02T00:00:00,Show nearby charging stations.,Simulated response for: Show nearby charging stations.,show
+user_45,James Blackwell,2025-02-02T00:00:00,Why did my battery drain so fast?,Simulated response for: Why did my battery drain so fast?,why
+user_46,Stephanie Perry,2025-01-31T00:00:00,What is the current tire pressure?,Simulated response for: What is the current tire pressure?,what
+user_46,Stephanie Perry,2025-01-08T00:00:00,Why did my battery drain so fast?,Simulated response for: Why did my battery drain so fast?,why
+user_46,Stephanie Perry,2025-02-25T00:00:00,Remind me to service the car next week.,Simulated response for: Remind me to service the car next week.,remind
+user_46,Stephanie Perry,2025-02-19T00:00:00,Why did my battery drain so fast?,Simulated response for: Why did my battery drain so fast?,why
+user_46,Stephanie Perry,2025-02-26T00:00:00,How long was my last trip?,Simulated response for: How long was my last trip?,how
+user_46,Stephanie Perry,2025-02-11T00:00:00,Show nearby charging stations.,Simulated response for: Show nearby charging stations.,show
+user_46,Stephanie Perry,2025-01-21T00:00:00,Show nearby charging stations.,Simulated response for: Show nearby charging stations.,show
+user_46,Stephanie Perry,2025-03-02T00:00:00,Why did my battery drain so fast?,Simulated response for: Why did my battery drain so fast?,why
+user_46,Stephanie Perry,2025-02-10T00:00:00,What warning did I get yesterday?,Simulated response for: What warning did I get yesterday?,what
+user_46,Stephanie Perry,2025-01-07T00:00:00,Where did I drive last Tuesday?,Simulated response for: Where did I drive last Tuesday?,where
+user_47,Monica Gonzalez,2025-02-06T00:00:00,Play my favorite playlist.,Simulated response for: Play my favorite playlist.,play
+user_47,Monica Gonzalez,2025-01-13T00:00:00,Where did I drive last Tuesday?,Simulated response for: Where did I drive last Tuesday?,where
+user_47,Monica Gonzalez,2025-01-06T00:00:00,Navigate to work.,Simulated response for: Navigate to work.,navigate
+user_47,Monica Gonzalez,2025-01-14T00:00:00,Why did my battery drain so fast?,Simulated response for: Why did my battery drain so fast?,why
+user_47,Monica Gonzalez,2025-01-18T00:00:00,Navigate to work.,Simulated response for: Navigate to work.,navigate
+user_47,Monica Gonzalez,2025-02-20T00:00:00,Play my favorite playlist.,Simulated response for: Play my favorite playlist.,play
+user_47,Monica Gonzalez,2025-02-28T00:00:00,Where did I drive last Tuesday?,Simulated response for: Where did I drive last Tuesday?,where
+user_47,Monica Gonzalez,2025-01-18T00:00:00,What is the current tire pressure?,Simulated response for: What is the current tire pressure?,what
+user_47,Monica Gonzalez,2025-01-05T00:00:00,Turn off the AC.,Simulated response for: Turn off the AC.,turn
+user_47,Monica Gonzalez,2025-01-23T00:00:00,What warning did I get yesterday?,Simulated response for: What warning did I get yesterday?,what
+user_48,Dana Hernandez,2025-02-09T00:00:00,Remind me to service the car next week.,Simulated response for: Remind me to service the car next week.,remind
+user_48,Dana Hernandez,2025-01-12T00:00:00,What is the current tire pressure?,Simulated response for: What is the current tire pressure?,what
+user_48,Dana Hernandez,2025-01-24T00:00:00,Where did I drive last Tuesday?,Simulated response for: Where did I drive last Tuesday?,where
+user_48,Dana Hernandez,2025-01-22T00:00:00,How long was my last trip?,Simulated response for: How long was my last trip?,how
+user_48,Dana Hernandez,2025-01-12T00:00:00,Play my favorite playlist.,Simulated response for: Play my favorite playlist.,play
+user_48,Dana Hernandez,2025-02-27T00:00:00,What is the current tire pressure?,Simulated response for: What is the current tire pressure?,what
+user_48,Dana Hernandez,2025-02-09T00:00:00,What warning did I get yesterday?,Simulated response for: What warning did I get yesterday?,what
+user_48,Dana Hernandez,2025-02-18T00:00:00,Play my favorite playlist.,Simulated response for: Play my favorite playlist.,play
+user_48,Dana Hernandez,2025-02-11T00:00:00,How long was my last trip?,Simulated response for: How long was my last trip?,how
+user_48,Dana Hernandez,2025-01-03T00:00:00,Turn off the AC.,Simulated response for: Turn off the AC.,turn
+user_49,Edward Williams,2025-01-25T00:00:00,What is the current tire pressure?,Simulated response for: What is the current tire pressure?,what
+user_49,Edward Williams,2025-02-12T00:00:00,Where did I drive last Tuesday?,Simulated response for: Where did I drive last Tuesday?,where
+user_49,Edward Williams,2025-02-07T00:00:00,Where did I drive last Tuesday?,Simulated response for: Where did I drive last Tuesday?,where
+user_49,Edward Williams,2025-01-31T00:00:00,How long was my last trip?,Simulated response for: How long was my last trip?,how
+user_49,Edward Williams,2025-02-03T00:00:00,Where did I drive last Tuesday?,Simulated response for: Where did I drive last Tuesday?,where
+user_49,Edward Williams,2025-02-28T00:00:00,Show nearby charging stations.,Simulated response for: Show nearby charging stations.,show
+user_49,Edward Williams,2025-02-27T00:00:00,Show nearby charging stations.,Simulated response for: Show nearby charging stations.,show
+user_49,Edward Williams,2025-02-04T00:00:00,Turn off the AC.,Simulated response for: Turn off the AC.,turn
+user_49,Edward Williams,2025-01-02T00:00:00,Turn off the AC.,Simulated response for: Turn off the AC.,turn
+user_49,Edward Williams,2025-02-07T00:00:00,How long was my last trip?,Simulated response for: How long was my last trip?,how
+user_41,Brian Nixon,2025-08-03T13:31:25.556232,I am Brian not Richard.,"Got it, Brian! How can I assist you today?",i
